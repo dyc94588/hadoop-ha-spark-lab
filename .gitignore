@@ -1,0 +1,16 @@
+# 日志与临时产物
+*.log
+logs/
+tmp/
+output/
+part-r-*
+_SUCCESS
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 系统文件
+.DS_Store
+Thumbs.db
